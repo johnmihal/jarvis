@@ -1,0 +1,38 @@
+JohnMihal 415-328-8891· johnmihal34@gmail.com·johnmihal.com Pro9ile and Objective
+Aspiring developer with concrete programming skills, and a focus on user centered design. Looking to obtain a co-op posi<on in computer science spring 2024.
+• Web development skills with HTML, CSS and JS
+• Object Oriented Languages; Java and Python
+• Experience with C in a low level environment
+Education
+• Database concepts, experience with SQL
+• Team oriented and versed with the Agile method • 8 months of work experience with AWS products
+B.S. Computer Science, Rochester Ins<tute of Technology, 3.7/4.0, December 2024
+Relevant Experience
+Clash Stats (personal) Team size: 1 Summer 2023
+Created a website where users can view and compare in their in game sta<s<cs with friends for the popular hit mobile game Clash Royale.
+• U<lized Bootstrap CSS to create mobile friendly responsive design
+• Implemented the website with a Express Node.js backend
+Tools: Node.js, Express, Pug (ex-Jade) template engine, Clash Royale API, Bootstrap CSS, JS Axios, JS
+API DocHub (Coop - Regeneron) Team size: 1 Spring 2023
+Designed and implemented a SwaggerHub replacement, where internal teams can easily view internal API specifica<ons in a user friendly website.
+• Saved over $20k in yearly licensing costs compared to the exis<ng solu<on
+• Hosted the documents and website on a AWS S3 bucket which was accessible through AWS API Gateway
+• U<lized exis<ng Swagger UI Libraries
+Tools: AWS S3, AWS API Gateway, AWS CloudForma<on emplates, Open API Spec 3.0, Postman, JS, CSS
+Temperature Converter iOS App (personal) Team size: 1 Summer 2022
+Learned Swi^ to create a iOS app where users can convert temperature from C° to F° and F° to C°.
+Tools: Swi^, Swi^ UI
+Meal Hub (academic) Team size: 4 Spring 2022
+Designed a SQL rela<onal database and a Java database management applica<on. The applica<on allowed users to manage a virtual pantry, search recipes and receive recipe recommenda<ons.
+• Database handled 500,000+ ingredients and 1000’s of recipes in 10 tables
+• Data was populated, generated and prepared using Java and Kaggle data
+• Implemented efficient data structures and indexes to allow quick <2s searches of recipes and ingredients
+• Analyzed database trends with R
+Tools: SQL, Rela<onal Databases, Java, Java Fx, Gluon Scene Builder, R
+Professional Experience
+Research & Pre-clinical Development IT Coop, Regeneron , January 2023 - August 2023
+• Worked extensively with AWS products such as Lambda, S3, API Gateway, SQS, CloudWatch, Step Func<ons
+and CloudForma<on templates
+• Operated in a large organiza<on where mee<ng with many par<es was cri<cal to comple<ng projects
+• Gained business knowledge of the biopharma industry
+• Refactored and extended programs with liile direc<on and non-existent documenta<on
